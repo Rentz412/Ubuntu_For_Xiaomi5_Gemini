@@ -1,0 +1,2 @@
+# Ubuntu_For_Xiaomi5_Gemini
+小米5的Ubuntu
