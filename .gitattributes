@@ -1,0 +1,13 @@
+firmware/**/*.tlv filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.so filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.elf filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.b00 filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.b01 filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.b02 filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.302 filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.bin filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.mbn filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.fw filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.mdt filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.301 filter=lfs diff=lfs merge=lfs -text
+firmware/**/*.fw2 filter=lfs diff=lfs merge=lfs -text
