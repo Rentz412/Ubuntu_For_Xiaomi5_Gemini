@@ -1,4 +1,4 @@
-.build/
-out/
-boot/
+./build
+out
 build-kernel.sh
+build-clean.sh

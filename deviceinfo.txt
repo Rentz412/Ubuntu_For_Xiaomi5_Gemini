@@ -1,9 +1,0 @@
-mkbootimg --base 0x80000000 \
-        --kernel_offset 0x00008000 \
-        --ramdisk_offset 0x01000000 \
-        --tags_offset 0x00000100 \
-        --pagesize 4096 \
-        --second_offset 0x00f00000 \
-        --ramdisk ~/workspaces/tmp_mkboot/initrd.img \
-        --cmdline "console=tty0 root=UUID=eb797455-372d-47b7-8fd1-ce9f768161dd rw loglevel=3 splash"\
-        --kernel ~/workspaces/tmp_mkboot/kernel-dtb -o ~/workspaces/tmp_mkboot/boot.img
