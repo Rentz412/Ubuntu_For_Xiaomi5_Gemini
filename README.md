@@ -8,7 +8,7 @@
 
 理论上无底包固件限制。
 
-[GUIDE.md](docs/how_to_use.md) 该文档是对懒人包的一部分说明，以及如何使用putty和webssh连接到Ubuntu上。
+[GUIDE.md](docs/GUIDE.md) 该文档是对懒人包的一部分说明，以及如何使用putty和webssh连接到Ubuntu上。
 
 [CHANGELOG.md](docs/CHANGELOG.md) 该文档是历史更新日志
 
