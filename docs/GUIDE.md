@@ -58,9 +58,9 @@ ip a
 sudo systemctl disable serial-getty@ttyGS0.service
 ```
 
-> 关闭后，将导致无法使用putty连接到Ubuntu。
+> 关闭后，将导致无法使用tty串口登录连接到Ubuntu。
 
-开启串口连接：
+如需使用tty串口登录则开启串口连接：
 
 ```bash
 sudo systemctl enable serial-getty@ttyGS0.service
