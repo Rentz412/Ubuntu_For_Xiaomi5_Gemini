@@ -52,7 +52,7 @@ EOF
 ```bash
 cd ~/Ubuntu_For_Xiaomi5_Gemini/
 source env.sh
-mkdir -p ./out ~/chroot
+mkdir -p ~/chroot
 ```
 
 复制仓库内的 Gemini 配置，并补全当前内核源码新增的配置项：
